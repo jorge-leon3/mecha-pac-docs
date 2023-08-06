@@ -21,6 +21,7 @@ const config = {
   organizationName: 'jorge-leon3', // Usually your GitHub org/user name.
   projectName: 'mecha-pac-docs', // Usually your repo name.
   deploymentBranch: 'deployment',
+  trailingSlash: false,
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
